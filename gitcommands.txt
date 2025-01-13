@@ -1,0 +1,19 @@
+git stash: Temporarily saves changes that are not ready to be committed.
+
+git rebase: Reapplies commits on top of another base tip.
+
+git cherry-pick [commit]: Applies the changes from a specific commit.
+
+git revert [commit]: Creates a new commit that undoes the changes from a previous commit.
+
+git reset [commit]: Resets the current branch to a specific commit.
+
+git log: Shows the commit history.
+
+git diff: Shows the differences between commits, branches, or files.
+
+git tag [tagname]: Creates a tag for a specific commit.
+
+git remote: Manages remote repository connections.
+
+git fetch: Downloads objects and refs from another repository.
