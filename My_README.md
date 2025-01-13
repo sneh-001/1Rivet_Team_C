@@ -10,7 +10,7 @@ This branch is dedicated to [Your Name]'s personal tasks and development. Here, 
 - Provide your contact information for any questions or collaborations.
 - Examples:
   - Email: snehsoni001@gmail.com
-  - GitHub: [Your GitHub Profile](https://github.com/sneh-001)
+  - GitHub: [GitHub Profile](https://github.com/sneh-001)
   
 
 ---
