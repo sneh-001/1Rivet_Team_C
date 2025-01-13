@@ -15,3 +15,5 @@
 - Sneh Soni
 ## Purpose 
 The main purpose of this repository is to organize, assign, and track the progress of tasks. Team members can create branches for their tasks, commit changes, and open pull requests for review. 
+## Usage 
+Clone this repository usng the url : https://github.com/sneh-001/1Rivet_Team_C.git
