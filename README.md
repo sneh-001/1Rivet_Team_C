@@ -1,6 +1,7 @@
 # 1Rivet_Team_C
 # Team Tasks Repository 
-## Overview This repository is dedicated to task management and collaboration among team members. Each member will perform and track their assigned tasks here. 
+## Overview
+This repository is dedicated to task management and collaboration among team members. Each member will perform and track their assigned tasks here. 
 ## Team Members 
 - Aayush Vadiya
 - Alfiya Kapadia
@@ -10,6 +11,7 @@
 - Mohit Patel
 - Murtuza Rangwala
 - Parth Mistry
+- Payal Chaudhari
 - Sarfaraz Master
 - Shruti Tandel
 - Sneh Soni
