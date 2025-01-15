@@ -1,6 +1,6 @@
 # 1Rivet_Team_C
 # Team Tasks Repository 
-## Overview+
+## Overview
 This repository is dedicated to task management and collaboration among team members. Each member will perform and track their assigned tasks here. 
 ## Team Members 
 - Aayush Vadiya
