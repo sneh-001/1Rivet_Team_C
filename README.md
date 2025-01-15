@@ -11,6 +11,7 @@ This repository is dedicated to task management and collaboration among team mem
 - Mohit Patel
 - Murtuza Rangwala
 - Parth Mistry
+- Payal Chaudhari
 - Sarfaraz Master
 - Shruti Tandel
 - Sneh Soni
