@@ -1,1 +1,4 @@
 This is azure
+App Service
+Azure AI Service
+Azure Arc
