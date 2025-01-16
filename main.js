@@ -1,3 +1,5 @@
-const b = 10
-const c = 10
-console.log(b+c);
+const b = 30;
+const c = 30;
+
+console.log(b+ c);
+
