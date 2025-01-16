@@ -1,5 +1,1 @@
-a = int(input("Enter a number :"))
-b = int(input("Enter another number : "))
-c= eval(a,b)
-b = int(input("Enter anothher number :"))
-print(c)
+Conflicting branch from develop
